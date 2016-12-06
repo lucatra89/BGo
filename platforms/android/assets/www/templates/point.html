@@ -1,0 +1,16 @@
+<div id="smallmap"></div>
+<div class="content-padded">
+    <button id="site" class="btn btn-primary btn-block">Vai al sito</button>
+    <h4>
+        {{title}}
+        <span class="badge">
+        {{#if km}}
+          {{km}}Km
+        {{else}}
+          {{meters}}m
+        {{/if}}
+        </span>
+    </h4>
+    <img src="{{img_url}}" class="details">
+    <p class="details">{{description}}</p>
+</div>

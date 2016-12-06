@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "it.univaq.disim.mwt.mob.bologna"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "it.univaq.disim.mwt.mob.bologna"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "it.univaq.disim.mwt.mob.bologna"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "it.univaq.disim.mwt.mob.bologna"
+        }
+    },
+    "dependent_plugins": {}
+}
